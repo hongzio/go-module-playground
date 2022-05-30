@@ -1,5 +1,5 @@
 package hongzio
 
 func Version() string {
-    return "v1.9.0"
+    return "v2.0.0"
 }
